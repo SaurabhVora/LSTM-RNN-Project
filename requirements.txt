@@ -1,0 +1,11 @@
+tensorflow==2.17
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorboard
+streamlit
+scikeras
+nltk
+ipykernel
+keras
